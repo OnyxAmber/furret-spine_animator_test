@@ -1,0 +1,2 @@
+# furret-spine_animator_test
+测试一下Unity的Spine Animator插件的效果
